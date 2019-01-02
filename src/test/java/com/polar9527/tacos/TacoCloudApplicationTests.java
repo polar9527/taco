@@ -1,4 +1,4 @@
-package com.polar9527.taco;
+package com.polar9527.tacos;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,4 +14,3 @@ public class TacoCloudApplicationTests {
     }
 
 }
-

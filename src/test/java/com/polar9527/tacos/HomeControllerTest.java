@@ -1,4 +1,4 @@
-package com.polar9527.taco;
+package com.polar9527.tacos;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;

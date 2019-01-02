@@ -1,4 +1,4 @@
-package com.polar9527.taco;
+package com.polar9527.tacos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,4 +11,3 @@ public class TacoCloudApplication {
     }
 
 }
-
